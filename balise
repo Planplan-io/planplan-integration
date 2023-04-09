@@ -6,6 +6,6 @@
 <meta property="product:price:amount" content="10.30"/>
 <meta property="product:price:currency" content="EUR"/>
 
-Option pour afficher le stock ou les produits d'occasion
+#Option pour afficher le stock ou les produits d'occasion
 <meta property="product:availability" content="in stock"/>
 <meta property="product:condition" content="refurbished"/>
